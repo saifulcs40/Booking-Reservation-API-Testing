@@ -1,4 +1,4 @@
-## Rest Booking Reservation API with Postman Newman
+## Restful Booking Reservation API with Postman Newman
 
 This project demonstrates API testing with Postman by providing a set of tests for several API endpoints.
 ## Features
